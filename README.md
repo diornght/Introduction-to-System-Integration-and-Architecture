@@ -1,2 +1,5 @@
-# Introduction-to-System-Integration-and-Architecture
-A repository that inludes my essay
+I expect to gain a lot of understanding of how different components in the environment work together to form efficient and scalable systems. I'm looking forward to learning how systems communicate and function as a whole, especially in real-world settings. This subject seems like it will form a strong foundation for understanding more. I anticipate that the course will involve a fair amount of coding, which may be challenging at times.
+
+I think that with the proper knowledge and support from the professor, I can overcome these challenges.  The way in which the subject is taught will have a major impact on how well I understand the subject material, and I am confident that how it is taught will be consistent with how I study best. I anticipate that this subject will be both challenging and enjoyable.  I am willing to put in the work, especially if the instructional style encourages active participation and practical application.
+
+By the end of the course, I want to be able to carry out system integration ideas in practical situations in addition to understanding it.  I have high hopes for this subject and know that my expectations will be fulfilled with a positive outlook and instruction.
